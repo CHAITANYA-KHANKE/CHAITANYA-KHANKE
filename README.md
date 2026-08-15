@@ -36,9 +36,10 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
 ---
 
 ### 🏆 Hackathons & Achievements
-- 🚀 **Prompt Wars Virtual (Hack2skill & Google for Developers):** Built **EcoSphere** (FastAPI, Python, JS, CSS) to track carbon footprints and offset simulations.
+- 🚀 **PromptWars Virtual (Google for Developers & Hack2Skill):** Received *Certificate of Appreciation* for the successful submission of a verified Generative AI solution for Challenge 3 (Certificate ID: `2026H2SO6PWVCHL3-A00205`, Nov 2026).
+- 💻 **Vibe2Ship Hackathon (Coding Ninjas & Google for Developers):** Actively participated in India's biggest coding hackathon, demonstrating problem-solving and excellence in building AI-powered solutions.
+- 🎓 **Google Student Ambassador Program (2026):** Received *Certificate of Participation (Music Night Edition)* for showcasing exceptional innovation, enthusiasm, and creativity.
 - 📊 **Kaggle Competitions:** Actively participate in Machine Learning and Data Science challenges.
-- 🛡️ **Oracle & Copado Credentials:** Earned professional certifications in Generative AI, Data Science, and DevOps AI.
 
 ---
 
