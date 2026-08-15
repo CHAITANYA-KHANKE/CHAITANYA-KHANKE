@@ -16,11 +16,41 @@
 ---
 
 ### 💫 About Me
-Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Government College of Engineering, Chandrapur (GCOEC)**. I am highly passionate about Artificial Intelligence, Machine Learning, and Data Science. I love automating tasks, writing clean Python scripts, and building real-world software solutions.
+Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Government College of Engineering, Chandrapur (GCOEC)**. I am passionate about Artificial Intelligence, Machine Learning, and Data Science. I focus on building intelligent AI solutions, automation scripts, and full-stack data apps.
 
 - 🎓 **Education:** B.Tech in Computer Science Engineering (Gondwana University, 2024 - 2028)
-- 🧠 **Focus Areas:** Generative AI, LLMs, Machine Learning, Data Analytics, and Data Structures.
-- 🚀 **Career Goal:** Aspiring AI / Machine Learning Engineer.
+- 🧠 **Specializations:** Generative AI, LLMs, Machine Learning, Data Analytics, Python Automation
+- 🚀 **Career Goal:** Aspiring AI / Machine Learning Engineer
+
+---
+
+### 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌱 <a href="https://github.com/CHAITANYA-KHANKE/ecosphere-carbon-footprint">EcoSphere</a></h4>
+      <p>A responsive carbon footprint tracker & offset simulator aligned with Paris Agreement metrics. Features client-side optimization and interactive impact calculators.</p>
+      <p><code>FastAPI</code> <code>Python</code> <code>JavaScript</code> <code>CSS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/CHAITANYA-KHANKE/StudyMate-AI">StudyMate-AI</a></h4>
+      <p>An interactive AI-powered study companion designed to accelerate learning, summarize content, and organize student tasks.</p>
+      <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>AI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📂 <a href="https://github.com/CHAITANYA-KHANKE/Smart-File-Organizer">Smart File Organizer</a></h4>
+      <p>Automated desktop file management tool that intelligently categorizes and organizes messy directories by file extension.</p>
+      <p><code>Python</code> <code>Automation</code> <code>OS/Shutil</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏙️ <a href="https://github.com/CHAITANYA-KHANKE/CivicHero">CivicHero</a></h4>
+      <p>Community platform enabling citizens to report local civic issues and track resolution progress collaboratively.</p>
+      <p><code>TypeScript</code> <code>Full-Stack</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -28,17 +58,19 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-Certified%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Gen AI Professional">
   <img src="https://img.shields.io/badge/Oracle-Certified%20Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Data Science Professional">
-  <br>
   <img src="https://img.shields.io/badge/Oracle-Certified%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI AI Foundations">
+  <br>
   <img src="https://img.shields.io/badge/Copado-Certified%20Copado%20AI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Copado AI Certified">
+  <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks GenAI">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Generative%20AI%20Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google GenAI Studio">
 </p>
 
 ---
 
 ### 🏆 Hackathons & Achievements
-- 🚀 **PromptWars Virtual (Google for Developers & Hack2Skill):** Received *Certificate of Appreciation* for the successful submission of a verified Generative AI solution for Challenge 3 (Certificate ID: `2026H2SO6PWVCHL3-A00205`, Nov 2026).
-- 💻 **Vibe2Ship Hackathon (Coding Ninjas & Google for Developers):** Actively participated in India's biggest coding hackathon, demonstrating problem-solving and excellence in building AI-powered solutions.
-- 🎓 **Google Student Ambassador Program (2026):** Received *Certificate of Participation (Music Night Edition)* for showcasing exceptional innovation, enthusiasm, and creativity.
+- 🚀 **PromptWars Virtual (Google for Developers & Hack2Skill):** Received *Certificate of Appreciation* for the verified Generative AI solution submission for Challenge 3.
+- 💻 **Vibe2Ship Hackathon (Coding Ninjas & Google for Developers):** Participated in India's biggest vibe coding hackathon, building next-gen AI solutions.
+- 🌟 **Google Student Ambassador Program (2026):** Received *Certificate of Participation (Music Night Edition)* for outstanding innovation and creativity.
 - 📊 **Kaggle Competitions:** Actively participate in Machine Learning and Data Science challenges.
 
 ---
@@ -66,12 +98,11 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats & Analytics
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=CHAITANYA-KHANKE&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide_border=true" alt="Chaitanya's GitHub Stats" height="195" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CHAITANYA-KHANKE&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide_border=true" alt="Chaitanya's Top Languages" height="195" />
 </p>
-
 
 ---
 
@@ -88,4 +119,3 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/CHAITANYA-KHANKE/CHAITANYA-KHANKE/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
-
