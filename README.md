@@ -35,6 +35,13 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
 
 ---
 
+### 🏆 Hackathons & Achievements
+- 🚀 **Prompt Wars Virtual (Hack2skill & Google for Developers):** Built **EcoSphere** (FastAPI, Python, JS, CSS) to track carbon footprints and offset simulations.
+- 📊 **Kaggle Competitions:** Actively participate in Machine Learning and Data Science challenges.
+- 🛡️ **Oracle & Copado Credentials:** Earned professional certifications in Generative AI, Data Science, and DevOps AI.
+
+---
+
 ### 🛠️ Tech Stack & Skills
 <p align="left">
   <!-- Languages -->
@@ -60,17 +67,10 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
 
 ### 📊 GitHub Stats & Streaks
 <p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=CHAITANYA-KHANKE&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide_border=true" alt="Chaitanya's GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHAITANYA-KHANKE&theme=tokyonight&background=0d1117&fire=e91e63&ring=38bdf8&currStreakLabel=e2e8f0&hide_border=true" alt="Chaitanya's Contribution Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-stats-extended.vercel.app/api?username=CHAITANYA-KHANKE&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide_border=true" alt="Chaitanya's GitHub Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=CHAITANYA-KHANKE&theme=tokyonight&background=0d1117&fire=e91e63&ring=38bdf8&currStreakLabel=e2e8f0&hide_border=true" alt="Chaitanya's Contribution Streak" height="195" />
 </p>
+
 
 ---
 
