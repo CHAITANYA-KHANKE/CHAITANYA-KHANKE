@@ -68,22 +68,18 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
 ### 📊 GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=CHAITANYA-KHANKE&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide_border=true" alt="Chaitanya's GitHub Stats" height="195" />
-  <img src="https://streak-stats.demolab.com/?user=CHAITANYA-KHANKE&theme=tokyonight&background=0d1117&fire=e91e63&ring=38bdf8&currStreakLabel=e2e8f0&hide_border=true" alt="Chaitanya's Contribution Streak" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CHAITANYA-KHANKE&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide_border=true" alt="Chaitanya's Top Languages" height="195" />
 </p>
 
 
 ---
 
-### 🎮 Contribution Games
-
-#### 🛸 Space Shooter (Contributions in Action!)
-*A game of retro Space Invaders powered entirely by my GitHub contribution board (Updates daily via GitHub Actions):*
 <p align="center">
   <img src="https://raw.githubusercontent.com/CHAITANYA-KHANKE/CHAITANYA-KHANKE/output/game.gif" alt="Space Shooter contribution game" width="100%">
 </p>
 
-#### 🐍 Snake Game
-*A classic snake game eating my contributions:*
+<br>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHAITANYA-KHANKE/CHAITANYA-KHANKE/output/github-contribution-grid-snake-dark.svg">
@@ -91,3 +87,4 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/CHAITANYA-KHANKE/CHAITANYA-KHANKE/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
+
