@@ -1,0 +1,56 @@
+name: Generate Profile Animations
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Step 1: Checkout the repository (so we can stage the generated files and keep the output-path clean)
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Step 2: Generate Space Shooter Game GIF
+      - name: Generate Space Shooter Game
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'random'
+
+      # Step 3: Generate Snake Game Contribution SVG
+      - name: Generate Snake SVG
+        uses: platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Step 4: Move output assets to a staging directory 'dist'
+      - name: Stage files for deployment
+        run: |
+          mkdir -p dist
+          mv game.gif dist/
+          mv github-contribution-grid-snake.svg dist/
+          mv github-contribution-grid-snake-dark.svg dist/
+
+      # Step 5: Deploy dist contents to branch 'output'
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
