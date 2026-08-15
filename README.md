@@ -68,8 +68,10 @@ Hi! I'm **Chaitanya Khanke**, a Computer Science Engineering student at the **Go
 ---
 
 ### 🏆 Hackathons & Achievements
-- 🚀 **PromptWars Virtual (Google for Developers & Hack2Skill):** Received *Certificate of Appreciation* for the verified Generative AI solution submission for Challenge 3.
+- ⚡ **ChatGPT Codex Hackathon 2026 (BlockseBlock & Web3 Sabha):** Awarded *Certificate of Participation* for competing in the ChatGPT Codex Hackathon (Certificate ID: `BSB-13PIM4-MSDHEWUW`).
+- 🚀 **PromptWars Virtual (Google for Developers & Hack2Skill):** Received *Certificate of Appreciation* for the verified Generative AI solution submission for Challenge 3 (Certificate ID: `2026H2SO6PWVCHL3-A00205`).
 - 💻 **Vibe2Ship Hackathon (Coding Ninjas & Google for Developers):** Participated in India's biggest vibe coding hackathon, building next-gen AI solutions.
+- 🤖 **TaskVeda AI & Prompt Engineering (2026):** Awarded *Certificate of Participation* in TaskVeda's AI Tools & Prompt Engineering Program (Certificate ID: `TBCLG26-1`).
 - 🌟 **Google Student Ambassador Program (2026):** Received *Certificate of Participation (Music Night Edition)* for outstanding innovation and creativity.
 - 📊 **Kaggle Competitions:** Actively participate in Machine Learning and Data Science challenges.
 
