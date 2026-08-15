@@ -15,3 +15,72 @@
   <img
     
 </picture>
+## 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CHAITANYA-KHANKE/CHAITANYA-KHANKE/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <b>🐍 The snake is hungry... feed it with your contributions! 🚀</b>
+</p>
+
+---
+
+## 🎮 Mini Games
+
+### 🐍 Snake Game
+
+> Challenge yourself and beat the high score!
+
+<p align="center">
+  <a href="YOUR_SNAKE_GAME_LINK">
+    <img src="https://img.shields.io/badge/PLAY-SNAKE%20GAME-00ff88?style=for-the-badge&logo=gamepad&logoColor=white" />
+  </a>
+</p>
+
+### 🚀 Space War
+
+> Defend the galaxy. Destroy the enemies. Survive as long as possible.
+
+<p align="center">
+  <a href="YOUR_SPACE_WAR_GAME_LINK">
+    <img src="https://img.shields.io/badge/PLAY-SPACE%20WAR-ff3366?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Developer Mode
+
+```text
+╔══════════════════════════════════════╗
+║         CHAItanya.exe                ║
+╠══════════════════════════════════════╣
+║ STATUS     : ONLINE                  ║
+║ MODE       : AI ENGINEER             ║
+║ MISSION    : BUILD • BREAK • REBUILD ║
+║ CURRENT    : LEARNING PYTHON         ║
+║ SPECIALTY  : AI • GENAI • AGENTS     ║
+║ WEAPON     : CODE                    ║
+║ ENEMY      : BUGS                    ║
+╚══════════════════════════════════════╝
+```
+
+> 💡 **Code is my weapon. AI is my playground.**
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CHAITANYA-KHANKE/CHAITANYA-KHANKE/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <i>Keep coding. Keep contributing. Let the snake grow. 🐍</i>
+</p>
+
+
+
+
